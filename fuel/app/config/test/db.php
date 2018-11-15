@@ -8,9 +8,10 @@
 return array(
 	'default' => array(
 		'connection'  => array(
-			'dsn'        => 'mysql:host=localhost;dbname=fuel_test',
-			'username'   => 'fuel_app',
-			'password'   => 'super_secret_password',
+			'dsn'        => 'mysql:host=localhost;dbname=compta',
+			'username'   => 'root',
+			'password'   => 'itm',
+                        'port'   => '3307',
 		),
 	),
 );

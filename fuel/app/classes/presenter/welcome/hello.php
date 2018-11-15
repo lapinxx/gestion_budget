@@ -8,7 +8,9 @@
  */
 class Presenter_Welcome_Hello extends Presenter
 {
-	/**
+    public $title = "";
+    
+    /**
 	 * Prepare the view data, keeping this in here helps clean up
 	 * the controller.
 	 *

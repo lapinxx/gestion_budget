@@ -6,9 +6,11 @@
 return array(
 	'default' => array(
 		'connection'  => array(
-			'dsn'        => 'mysql:host=localhost;dbname=compta',
+			'dsn'        => 'mysql:host=localhost:3307;dbname=compta',
 			'username'   => 'root',
-			'password'   => '',
+			'password'   => 'itm',
+                        'port'   => '3307',
+                    
 		),
 	),
 );

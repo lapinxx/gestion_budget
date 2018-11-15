@@ -27,7 +27,8 @@ class Controller_Welcome extends Controller
             // yes, so go back to the page the user came from, or the
             // application dashboard if no previous page can be detected
             // Message::info(__('login.already-logged-in'));
-            Response::redirect('auth/login');
+            
+           // Response::redirect('appli/dashboard');
             
         }
     }

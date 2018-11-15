@@ -23,8 +23,9 @@ class Controller_Auth extends Controller {
         if (Core_Auth::isConnected()) {
              
             Messages::warning('vous êtes déjà connecté(e)!');
-            return Response::redirect('appli/dashboard');
-             
+          //  return Response::redirect('appli/dashboard');
+     return       Response::redirect('appli/dashboard');
+           //  return Response::forge(View::forge('appli/dashboard'));
          }
         $data = array(
             'title' => 'Connexion',
@@ -46,7 +47,8 @@ class Controller_Auth extends Controller {
                 try {
                     Core_Auth::connect(Input::post('username'), Input::post('password'));
                                         
-                    Response::redirect('appli/dashboard');
+                //    Response::redirect('appli/dashboard');
+                      return Response::forge(View::forge('appli/dashboard'));
                 } catch (Exception $e) {
                     Messages::error($e->getMessage());
                 }
@@ -79,6 +81,7 @@ public function action_logout() {
     // and go back to where you came from (or the application
     // homepage if no previous page can be determined)
 
-  \Response::redirect('appli/dashboard');
+    return \Response::redirect('auth/login');
+    //return Response::forge(View::forge('auth/login'));
     }
  }
