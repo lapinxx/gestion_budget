@@ -22,13 +22,13 @@
 class Controller_Welcome extends Controller
 {
     public function before() {
-        if (!Auth::check())
+        if (Auth::check())
         {
             // yes, so go back to the page the user came from, or the
             // application dashboard if no previous page can be detected
             // Message::info(__('login.already-logged-in'));
             
-           // Response::redirect('appli/dashboard');
+           Response::redirect('appli/dashboard');
             
         }
     }

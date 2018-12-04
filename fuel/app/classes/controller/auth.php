@@ -12,12 +12,7 @@
  * @author user
  */
 class Controller_Auth extends Controller {
-    //put your code here
-     public function before() {
-         
-        
-     
-     }
+    
     public function action_login() { 
         
         if (Core_Auth::isConnected()) {
