@@ -241,3 +241,172 @@ WARNING - 2018-12-04 17:54:40 --> Fuel\Core\Fuel::init - The configured locale e
 ERROR - 2018-12-04 17:54:40 --> Notice - Undefined variable: title in D:\www\gestion_budget\fuel\app\views\header.php on line 6
 WARNING - 2018-12-04 17:54:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
 ERROR - 2018-12-04 17:54:40 --> Notice - Undefined variable: title in D:\www\gestion_budget\fuel\app\views\header.php on line 6
+WARNING - 2018-12-04 20:21:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:21:18 --> Notice - Undefined variable: title in D:\www\gestion_budget\fuel\app\views\header.php on line 6
+WARNING - 2018-12-04 20:21:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:29 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:33 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:39 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:43 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:47 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:51 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:21:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:06 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:09 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:29 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:33 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:22:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:22:37 --> Notice - Undefined variable: title in D:\www\gestion_budget\fuel\app\views\header.php on line 6
+WARNING - 2018-12-04 20:22:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:22:45 --> Notice - Undefined variable: title in D:\www\gestion_budget\fuel\app\views\header.php on line 6
+WARNING - 2018-12-04 20:22:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:22:45 --> Notice - Undefined variable: title in D:\www\gestion_budget\fuel\app\views\header.php on line 6
+WARNING - 2018-12-04 20:23:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:23:20 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 20:26:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:26:53 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 20:37:33 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:37:34 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 20:43:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:43:09 --> Error - The requested view could not be found: layout.php in D:\www\gestion_budget\fuel\core\classes\view.php on line 492
+WARNING - 2018-12-04 20:43:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:43:29 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 20:44:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 20:44:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:44:42 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 20:59:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 20:59:03 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 21:00:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:00:43 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 21:16:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:16:56 --> Error - Presenter "Presenter_Appli_Smensuel" could not be found. in D:\www\gestion_budget\fuel\core\classes\presenter.php on line 92
+WARNING - 2018-12-04 21:17:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:17:08 --> Notice - Undefined variable: title2 in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 21:17:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:17:43 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 21:21:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:21:21 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 9
+WARNING - 2018-12-04 21:21:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:21:21 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 9
+WARNING - 2018-12-04 21:21:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:21:59 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 9
+WARNING - 2018-12-04 21:21:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:21:59 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 9
+WARNING - 2018-12-04 21:21:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:21:59 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 9
+WARNING - 2018-12-04 21:22:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:22:00 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 9
+WARNING - 2018-12-04 21:22:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:22:26 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 21:22:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:22:53 --> Notice - Undefined variable: toto in D:\www\gestion_budget\fuel\app\views\appli\smensuel.php on line 10
+WARNING - 2018-12-04 21:24:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 21:31:33 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 21:50:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:50:03 --> Fatal Error - Class 'Model_Comptas' not found in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 12
+WARNING - 2018-12-04 21:51:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:51:23 --> Fatal Error - Class 'Model_Comptas' not found in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 12
+WARNING - 2018-12-04 21:51:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 21:51:33 --> Error - Invalid method call.  Method find_all does not exist. in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 740
+WARNING - 2018-12-04 21:52:06 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 21:53:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 22:24:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:24:33 --> Fatal Error - Class 'Model_Article' not found in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 13
+WARNING - 2018-12-04 22:24:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:24:50 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:25:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:25:50 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:27:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:27:01 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:27:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 22:27:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:27:05 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+ERROR - 2018-12-04 22:27:05 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:30:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:30:13 --> Fatal Error - Call to a member function where() on array in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 12
+WARNING - 2018-12-04 22:30:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:30:38 --> Fatal Error - Call to a member function where() on array in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 12
+WARNING - 2018-12-04 22:31:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:31:04 --> Compile Error - Can't use method return value in write context in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 12
+WARNING - 2018-12-04 22:33:09 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:33:10 --> Fatal Error - Call to a member function where() on array in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 14
+WARNING - 2018-12-04 22:35:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:35:50 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:36:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:36:13 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:36:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 22:36:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:36:15 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+ERROR - 2018-12-04 22:36:16 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:36:51 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:36:52 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:38:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:38:50 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:38:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:38:54 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:39:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:39:51 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:39:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:39:54 --> Notice - Array to string conversion in D:\www\gestion_budget\fuel\packages\orm\classes\model.php on line 315
+WARNING - 2018-12-04 22:40:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2018-12-04 22:42:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:42:06 --> Fatal Error - Call to a member function where() on array in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 14
+WARNING - 2018-12-04 22:44:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:44:27 --> Fatal Error - Call to a member function where() on array in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 13
+WARNING - 2018-12-04 22:44:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:44:54 --> Parsing Error - syntax error, unexpected '->' (T_OBJECT_OPERATOR) in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 18
+WARNING - 2018-12-04 22:45:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:45:06 --> Fatal Error - Call to a member function where() on array in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 14
+WARNING - 2018-12-04 22:46:10 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:46:11 --> Fatal Error - Call to a member function limit() on array in D:\www\gestion_budget\fuel\app\classes\presenter\appli\smensuel.php on line 15
+WARNING - 2018-12-04 22:48:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:48:59 --> Runtime Recoverable error - Argument 1 passed to Orm\Query::_parse_where_array() must be of the type array, string given, called in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 346 and defined in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 333
+WARNING - 2018-12-04 22:50:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:50:20 --> Runtime Recoverable error - Argument 1 passed to Orm\Query::_parse_where_array() must be of the type array, string given, called in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 346 and defined in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 333
+WARNING - 2018-12-04 22:50:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:50:49 --> Runtime Recoverable error - Argument 1 passed to Orm\Query::_parse_where_array() must be of the type array, string given, called in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 346 and defined in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 333
+WARNING - 2018-12-04 22:51:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:51:02 --> Runtime Recoverable error - Argument 1 passed to Orm\Query::_parse_where_array() must be of the type array, string given, called in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 346 and defined in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 333
+WARNING - 2018-12-04 22:53:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:53:24 --> Runtime Recoverable error - Argument 1 passed to Orm\Query::_parse_where_array() must be of the type array, string given, called in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 346 and defined in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 333
+WARNING - 2018-12-04 22:54:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2018-12-04 22:54:33 --> Runtime Recoverable error - Argument 1 passed to Orm\Query::_parse_where_array() must be of the type array, string given, called in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 346 and defined in D:\www\gestion_budget\fuel\packages\orm\classes\query.php on line 333

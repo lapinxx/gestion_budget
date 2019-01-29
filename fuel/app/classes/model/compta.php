@@ -1,9 +1,6 @@
 <?php
 
 class Model_Compta extends Orm\Model { //! 1 ligne 
-    public function __toString() {
-        return $this->libelle;
-    }
 
     protected static $_properties = array(
         'id', // both validation & typing observers will ignore the PK
@@ -51,6 +48,18 @@ class Model_Compta extends Orm\Model { //! 1 ligne
             'data_type' => 'int',
             'label' => 'actif',
         ),
+    );
+    protected static $_belongs_to = array(
+        'tdepense' => array(
+            'key_from' => 'id_type_de_depense',
+            'model_to' => 'Model_Tdepense',
+            'key_to' => 'id',
+            'cascade_save' => true,
+            'cascade_delete' => false,
+        )
+
+   
+        
     );
 
 }
