@@ -1,17 +1,20 @@
 
-                <nav>
-                    <ul>
-                        <li><a href="dashboard.php">Accueil</a></li>
-                         <li><?php 
-                         echo Html::anchor(Uri::create('appli/smensuel'), 'raccourcie smensuel');
-                         ?></li>
-                        <li><a href="smensuel.php">Suivi Mensuel</a></li>
-                        <li><a href="suivi_professionnel.php">Suivi professionel</a></li>
-                        <li><a href="statistique.php">Statistique</a></li>
-                        <li><a href="import.php">Import</a></li>
-                        <li><a href="saisi">Saisie manuel</a></li>
-                        <li><a href="profil.php">Profil</a></li>
-                        <li><a href="parametre.php">Paramétre</a></li>
-                    </ul>
-                
-                </nav>
+<?php
+//code pour préparer les ul li nav :) 
+$items = array(
+    Html::anchor(Uri::create('appli/smensuel'), 'Accueil'),
+    Html::anchor(Uri::create('appli/smensuel'), 'Suivi Mensuel'),
+    Html::anchor(Uri::create('appli/smensuel'), 'Suivi Professionel'),
+    Html::anchor(Uri::create('appli/smensuel'), 'Statistique'),
+    Html::anchor(Uri::create('appli/smensuel'), 'Import'),
+    Html::anchor(Uri::create('appli/smensuel'), 'Saisie manuel'),
+    Html::anchor(Uri::create('appli/smensuel'), 'Profil'),
+    Html::anchor(Uri::create('appli/smensuel'), 'Paramétre')
+);
+?>
+
+<nav>
+    <?php
+    echo Html::ul($items); // code pour l'afficher
+    ?>
+</nav>
