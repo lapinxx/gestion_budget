@@ -2,6 +2,9 @@
                 <nav>
                     <ul>
                         <li><a href="dashboard.php">Accueil</a></li>
+                         <li><?php 
+                         echo Html::anchor(Uri::create('appli/smensuel'), 'raccourcie smensuel');
+                         ?></li>
                         <li><a href="smensuel.php">Suivi Mensuel</a></li>
                         <li><a href="suivi_professionnel.php">Suivi professionel</a></li>
                         <li><a href="statistique.php">Statistique</a></li>
