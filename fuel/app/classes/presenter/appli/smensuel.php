@@ -84,6 +84,7 @@ class Presenter_Appli_Smensuel extends Presenter {
                     ->related('comptas')
                     ->related('tableaus')
                     ->where('tableaus.tableau', $tableau['tableau'])
+              
                     ->get();
 
 

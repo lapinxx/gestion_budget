@@ -21,5 +21,12 @@ class Controller_Appli extends Controller {
         
         return Response::forge($presenter);
     }
+        public function action_import() {
+        $presenter = Presenter::forge('appli/import');
+        
+ 
+        
+        return Response::forge($presenter);
+    }
 
 }
