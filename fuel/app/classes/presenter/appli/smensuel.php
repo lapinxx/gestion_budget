@@ -1,7 +1,7 @@
 <?php
 //test commit
 class Presenter_Appli_Smensuel extends Presenter {
-
+ //  public $title = 'Testing this Presenter thing';
     public $month = null;
     public $year = null;
     
